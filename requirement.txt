@@ -1,2 +1,2 @@
-import streamlit as st
-from googletrans import Translator
+streamlit
+deep-translator
